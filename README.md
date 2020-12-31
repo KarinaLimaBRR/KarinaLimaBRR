@@ -11,7 +11,7 @@ Tecnologias que estudei por lá:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
 
-
+## Github Status
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=KarinaLimaBRR&show_icons=true&theme=cobalt)
 
